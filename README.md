@@ -7,7 +7,7 @@ We hope that the resources here will help you get the most out of YOLOv8. Please
 
 To request an Enterprise License please complete the form at Ultralytics Licensing.
 
-#Custom Training
+# Custom Training
 There are 80 classes in COCO dataset. the first one is person. Person includes male and female both. To distinguish between them, it needs to train with custom dataset. 
 Primarily, the following dataset was used-https://universe.roboflow.com/gender2/gender-f3eea
 
