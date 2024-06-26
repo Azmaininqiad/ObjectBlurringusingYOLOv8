@@ -11,4 +11,7 @@ To request an Enterprise License please complete the form at Ultralytics Licensi
 There are 80 classes in COCO dataset. the first one is person. Person includes male and female both. To distinguish between them, it needs to train with custom dataset. 
 Primarily, the following dataset was used-https://universe.roboflow.com/gender2/gender-f3eea
 
+# Segmentation and Blurring
+Using YOLOV8, blurring was conducted. It was blurred according to the segmented area.
+
 
